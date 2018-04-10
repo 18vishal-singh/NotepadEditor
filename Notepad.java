@@ -8,6 +8,10 @@ import java.net.URL;
 import java.awt.Color;
 import java.awt.Font;
 
+
+/*
+@author:Vishal Singh
+*/
 class Notepad implements ActionListener
 {
 	JEditorPane ta;
